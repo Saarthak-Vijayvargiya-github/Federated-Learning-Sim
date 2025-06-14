@@ -51,8 +51,8 @@ We trained the same model:
 ---
 ## Cloning from github
 ```
-git clone https://github.com/Saarthak-Vijayvargiya-github/CNN-Implementation-Java.git
-cd CNN-Implementation-Java
+git clone https://github.com/Saarthak-Vijayvargiya-github/Federated-Learning-Sim.git
+cd Federated-Learning-Sim
 ```
 
 ---
