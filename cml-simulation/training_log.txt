@@ -1,0 +1,15 @@
+Epoch [1/5] Train Loss: 0.4276 | Train Acc: 82.27%
+>>> Test Accuracy: 92.03%
+
+Epoch [2/5] Train Loss: 0.1844 | Train Acc: 93.16%
+>>> Test Accuracy: 94.27%
+
+Epoch [3/5] Train Loss: 0.1129 | Train Acc: 95.80%
+>>> Test Accuracy: 95.72%
+
+Epoch [4/5] Train Loss: 0.0748 | Train Acc: 97.20%
+>>> Test Accuracy: 96.50%
+
+Epoch [5/5] Train Loss: 0.0455 | Train Acc: 98.43%
+>>> Test Accuracy: 96.31%
+
