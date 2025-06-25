@@ -1,6 +1,6 @@
 # Federated Learning Simulation using Flower
 
-This project was developed as part of the course **BITS F464 Machine Learning** course instructed by [Dr. Navneet Goyal](https://www.bits-pilani.ac.in/pilani/navneet-goyal), Senior Professor at BITS Pilani, Rajasthan.
+This project was developed as part of the course **BITS F464 Machine Learning** course instructed by [Dr. Navneet Goyal](https://www.bits-pilani.ac.in/pilani/navneet-goyal), Senior Professor at BITS Pilani, Rajasthan. 
 
 ---
 ## About this Project
